@@ -2,6 +2,6 @@
 
 Test 
 
-trop bien git
+trop bien git mdr
 
 TEST GIT :3 
